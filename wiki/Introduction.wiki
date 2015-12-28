@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+=== *Classic Tetris* with blue shapes and yellow background. ===
+
+
+= Controls =
+
+Controls is very simple, all you need is:
+  * _Move shape aside_ - slide aside the screen
+  * _Quick move shape down_ - slide down the screen
+  * _Rotate shape_ - tap the screen
+
+That's all. Have a nice play `^_^`
